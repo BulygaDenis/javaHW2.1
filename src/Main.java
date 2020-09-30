@@ -3,7 +3,7 @@ public class Main {
         int price = 1280;
         int mile = 20;
 
-	    long bonus = price / mile;
-        System.out.println(bonus) ;
+        long bonus = price / mile;
+        System.out.println(bonus);
     }
 }
